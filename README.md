@@ -57,4 +57,6 @@ Finally, the if _name_ == "_main_": block ensures that the main() function is on
 
 ## RUN THE CODE :
   For writing and running the code,I used an IDE(vs code),a text editor with Python support 
+Screenshot Task2 ![CODTECH Task2](https://github.com/user-attachments/assets/ab0090f5-9c75-42ef-8d9c-99a06472e313)
+
 
